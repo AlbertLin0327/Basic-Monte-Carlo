@@ -1,9 +1,9 @@
 # Basic-Monte-Carlo
    
-[![Followers](https://img.shields.io/github/followers/AlbertLin0327?style=social)](https://github.com/AlbertLin0327)  
-[![Stars](https://img.shields.io/github/stars/AlbertLin0327?style=social)](https://github.com/AlbertLin0327)  
-![Issue](https://img.shields.io/github/issues/AlbertLin0327/Basic-Monte-Carlo)  
-![Commit](https://img.shields.io/github/last-commit/AlbertLin0327/Basic-Monte-Carlo)  
+[![Followers](https://img.shields.io/github/followers/AlbertLin0327?style=social)](https://github.com/AlbertLin0327)
+[![Stars](https://img.shields.io/github/stars/AlbertLin0327?style=social)](https://github.com/AlbertLin0327)
+![Issue](https://img.shields.io/github/issues/AlbertLin0327/Basic-Monte-Carlo)
+![Commit](https://img.shields.io/github/last-commit/AlbertLin0327/Basic-Monte-Carlo)
    
 ## Program Description   
 This program is to stimulate the price of a stock with given market informations (interest rate, volatility rate, ...). It simply sampled a lot of path and then used it to run Monte Carlo. Then the price and standard deviation is calculated. More features will be added in the future.  
@@ -31,10 +31,10 @@ Std: 0.002278041368702311
 
 ```
 #### Distribution of the Monte Carlo sampled path  
-<img src="/images/Distribution.png" height="25">   
+<img src="/images/Distribution.png" height="500">   
   
 #### Random Seleceted Monte Carlo sampled path  
-<img src="/images/Path.png" height="25">  
+<img src="/images/Path.png" height="500">  
 
 ## Links to Me!
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linhsinkai@gmail.com)
